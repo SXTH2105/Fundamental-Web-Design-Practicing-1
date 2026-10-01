@@ -1,0 +1,16 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+nav {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero{
+    text-align: center;
+}
+.image{
+    size: 10px;
+}
