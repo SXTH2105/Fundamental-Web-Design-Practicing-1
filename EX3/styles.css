@@ -1,5 +1,7 @@
-body{
+*{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
     width: 100%;
 }
 nav {
@@ -11,6 +13,12 @@ nav {
 .hero{
     text-align: center;
 }
-.image{
-    size: 10px;
+.contact{
+    text-align: center;
 }
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
+
+

@@ -1,0 +1,15 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    width: 100%;
+}
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: #969292;
+}
